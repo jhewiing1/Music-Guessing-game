@@ -6,7 +6,7 @@ https://github.com/brendangregg/GuessingGame
 5. Evaulated another code to see if I wanted to use some parts for my own code-**DONE**
 https://inventwithpython.com/chapter4.html
 6. Create the file projectroadmap-**DONE**
-7. Begin writing code- IN PROGRESS
+7. Begin writing code- **IN PROGRESS**
 8. Review code- look throughology over the code for any problems 
 9. Edit code- fix the problems found and prepare for testing phase
 10. Test code to make sure everything is working porperly
