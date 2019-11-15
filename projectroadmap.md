@@ -9,4 +9,4 @@
 - [ ] 7. Begin writing code for each category of songs
 - [ ] 8. Review code- look throughly over the code for any problems 
 - [ ] 9. Edit code- fix the problems found and prepare for testing phase
-- [ ] 10. Test code to make sure everything is working porperly
+- [ ] 10. Test code to make sure everything is working properly, and if not tweak the code 
