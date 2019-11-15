@@ -1,4 +1,4 @@
-1. - [X] Pick songs that i want to have in each category -[x]
+- [x] 1. Pick songs that i want to have in each category -[x]
 2.  Brainstorm on how i want my game to be setup-**Done**
 3. Look at different example codes and make an outline- **DONE** 
 4. Evaulated this code and decided if I want to implement it in my project- **DONE**
