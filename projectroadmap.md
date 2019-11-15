@@ -6,7 +6,7 @@
 - [x] 5. Evaulated another code to see if I wanted to use some parts for my own code-
          https://inventwithpython.com/chapter4.html
 - [x] 6. Create the file projectroadmap-
-- [] 7. Begin writing cod- 
-- [] 8. Review code- look throughology over the code for any problems 
-- [] 9. Edit code- fix the problems found and prepare for testing phase
-- [] 10. Test code to make sure everything is working porperly
+- [ ] 7. Begin writing cod- 
+- [ ] 8. Review code- look throughology over the code for any problems 
+- [ ] 9. Edit code- fix the problems found and prepare for testing phase
+- [ ] 10. Test code to make sure everything is working porperly
